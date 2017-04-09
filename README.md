@@ -1,4 +1,4 @@
-# Caesar-Cipher
+# Caesar-Cipher // 1/17/16
 Caesar Cipher (Encryption and Decryption)
 
 This algorithm will encrypt or decrypt an user-input string. 
